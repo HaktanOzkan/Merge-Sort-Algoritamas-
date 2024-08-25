@@ -12,11 +12,6 @@ Bu proje, **Merge Sort** algoritmasını Java dilinde uygulayan bir programı i�
 
 - Java 8 veya daha yeni bir sürümü.
 
-## Kurulum
-
-1. Proje dosyalarını [buradan](https://github.com/HaktanOzkan/Merge-Sort-Algoritamas-/releases) indirin.
-2. İndirilen dosyaları bir klasöre çıkarın.
-3. Java yüklü bir sistemde `Main.java` dosyasını çalıştırarak programı çalıştırın.
 
 ## Kullanım
 
